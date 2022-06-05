@@ -42,3 +42,17 @@ function multiply(a, b){
 ## **Experience**
 
 * [CV](https://github.com/Dazmond-ru/rsschool-cv/blob/gh-pages/cv.md)
+
+***
+
+## **Education** 
+* **University:** North Caucasus Federal University, specialty "Industrial and Civil Engineering"
+* **Courses:**
+  * [Stepik](https://www.stepik.org)
+  * [GeekBrains](https://www.gb.ru/) (in progress)
+  * [RSSchools](https://www.rs.school/) (in progress)
+
+  ***
+
+## **English**
+**A1** *(I study English in my free time, watch youtube videos and read technical literature.)*
