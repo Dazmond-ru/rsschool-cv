@@ -18,3 +18,27 @@ My task is to become a good specialist in the field of frontend development. I w
 In my free time, I meet with friends and watch movies. My hobbies are playing guitar and running long distances.
 
 I am glad that I have the opportunity to study at RS school and improve my skills.
+
+***
+
+## **Skills**
+* HTML, CSS
+* SCSS, BEM
+* JavaScript (Basic)
+* Git, Github
+
+***
+
+## **Code Example**
+```
+function multiply(a, b){
+  let  result = a * b
+  return result
+}
+```
+
+***
+
+## **Experience**
+
+* [CV](https://github.com/Dazmond-ru/rsschool-cv/blob/gh-pages/cv.md)
